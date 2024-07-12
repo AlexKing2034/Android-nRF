@@ -1,8 +1,8 @@
 # Critères
 
-## Age
+## Age (byte)
 
-## Race
+## Race (byte)
 | Code | Category                               |
 |------|----------------------------------------|
 | 1    | North American origins                 |
@@ -14,18 +14,18 @@
 | 7    | Oceanian origins                       |
 | 8    | Other ethnic and cultural origins      |
 
-## Types de Raynaud
+## Types de Raynaud (bool)
 - Primaire
 - Secondaire
 
-## Fumeur
+## Fumeur (bool)
 - Oui
 - Non
 
-## Tunnel Carpien
+## Tunnel Carpien (bool)
 - Oui
 - Non
 
-## Sexe
+## Sexe (bool)
 - Féminin
 - Masculin
