@@ -2,7 +2,7 @@
 
 ## Age (byte)
 
-## Race (byte)
+## Origines (byte)
 | Code | Category                               |
 |------|----------------------------------------|
 | 1    | North American origins                 |
